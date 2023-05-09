@@ -14,7 +14,7 @@ class TestStorage(TestCase):
 
     def test_add_correct_date(self):
         with self.assertRaises(ValueError) as c:
-            add('978456', 1500)
+            add('9784526', 1500)
         self.assertEqual("Incorrect data format, should be YYYY-MM-DD", c.exception.args[0])
 
     def test_add_valid_date(self):
