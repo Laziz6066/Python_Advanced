@@ -1,0 +1,15 @@
+INFO:__main__:Сообщение
+ERROR:__main__:Кавычка)"
+DEBUG:__main__:Еще одно сообщение
+INFO:__main__:Сообщение
+ERROR:__main__:Кавычка)"
+DEBUG:__main__:Еще одно сообщение
+INFO:__main__:Сообщение
+ERROR:__main__:Кавычка)"
+DEBUG:__main__:Еще одно сообщение
+INFO:__main__:Сообщение
+ERROR:__main__:Кавычка)"
+DEBUG:__main__:Еще одно сообщение
+INFO:__main__:{"time": "22:24:05", "level": "DEBUG", "message": "Сообщение"}
+ERROR:__main__:{"time": "22:24:05", "level": "DEBUG", "message": "Кавычка)\""}
+DEBUG:__main__:{"time": "22:24:05", "level": "DEBUG", "message": "Еще одно сообщение"}
