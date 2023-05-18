@@ -9,6 +9,9 @@
 import logging
 import random
 from typing import List
+import re
+from datetime import datetime
+
 
 logger = logging.getLogger(__name__)
 
@@ -59,8 +62,35 @@ def measure_me(nums: List[int]) -> List[List[int]]:
     return results
 
 
+def calculate_average_execution_time(log_file):
+    start_times = []
+    execution_times = []
+
+    with open(log_file, 'r') as file:
+        lines = file.readlines()
+
+    for line in lines:
+        if 'Enter measure_me' in line:
+            start_time = re.search(r'\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2},\d{3}', line)
+            if start_time:
+                start_times.append(datetime.strptime(start_time.group(), '%Y-%m-%d %H:%M:%S,%f'))
+        elif 'Leave measure_me' in line:
+            end_time = re.search(r'\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2},\d{3}', line)
+            if end_time:
+                end_time = datetime.strptime(end_time.group(), '%Y-%m-%d %H:%M:%S,%f')
+                execution_times.append((end_time - start_times.pop()).total_seconds() * 1000)
+
+    average_execution_time = sum(execution_times) / len(execution_times)
+    return average_execution_time
+
+
 if __name__ == "__main__":
-    logging.basicConfig(level="DEBUG")
+    logging.basicConfig(level="DEBUG", filename='log.txt',
+                        format=('%(asctime)s - %(levelname)s - %(message)s'))
     for it in range(15):
         data_line = get_data_line(10 ** 3)
         measure_me(data_line)
+
+    average_time = calculate_average_execution_time('log.txt')
+    print(f'Average execution time: {average_time} ms')
+
