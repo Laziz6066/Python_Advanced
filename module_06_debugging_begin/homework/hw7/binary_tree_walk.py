@@ -71,7 +71,49 @@ def get_tree(max_depth: int, level: int = 1) -> Optional[BinaryTreeNode]:
 
 
 def restore_tree(path_to_log_file: str) -> BinaryTreeNode:
-    pass
+    node_mapping = {}
+    root = None
+
+    with open(path_to_log_file, "r") as file:
+        for line in file:
+            line = line.strip()
+
+            log_level, log_message = line.split(":", 1)
+            log_level = log_level.strip()
+            log_message = log_message.strip()
+
+            node_val = int(log_message[log_message.index("[") + 1 : log_message.index("]")])
+            left_val = 0
+            right_val = 0
+
+            if "left is not empty" in log_message:
+                left_val = int(log_message[log_message.index("[", log_message.index("left")) + 1 : log_message.index("]", log_message.index("left"))])
+            if "right is not empty" in log_message:
+                right_val = int(log_message[log_message.index("[", log_message.index("right")) + 1 : log_message.index("]", log_message.index("right"))])
+
+            node = node_mapping.get(node_val)
+            if not node:
+                node = BinaryTreeNode(val=node_val)
+                node_mapping[node_val] = node
+
+            if left_val:
+                left_node = node_mapping.get(left_val)
+                if not left_node:
+                    left_node = BinaryTreeNode(val=left_val)
+                    node_mapping[left_val] = left_node
+                node.left = left_node
+
+            if right_val:
+                right_node = node_mapping.get(right_val)
+                if not right_node:
+                    right_node = BinaryTreeNode(val=right_val)
+                    node_mapping[right_val] = right_node
+                node.right = right_node
+
+            if not root:
+                root = node
+
+    return root
 
 
 if __name__ == "__main__":
@@ -83,3 +125,5 @@ if __name__ == "__main__":
 
     root = get_tree(7)
     walk(root)
+
+

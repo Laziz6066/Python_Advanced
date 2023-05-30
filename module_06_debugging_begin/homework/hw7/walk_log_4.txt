@@ -1,111 +1,253 @@
-INFO:Visiting <BinaryTreeNode[396981]>
-DEBUG:<BinaryTreeNode[396981]> right is not empty. Adding <BinaryTreeNode[396980]> to the queue
-INFO:Visiting <BinaryTreeNode[396980]>
-DEBUG:<BinaryTreeNode[396980]> left is not empty. Adding <BinaryTreeNode[396954]> to the queue
-DEBUG:<BinaryTreeNode[396980]> right is not empty. Adding <BinaryTreeNode[396979]> to the queue
-INFO:Visiting <BinaryTreeNode[396954]>
-DEBUG:<BinaryTreeNode[396954]> left is not empty. Adding <BinaryTreeNode[396939]> to the queue
-DEBUG:<BinaryTreeNode[396954]> right is not empty. Adding <BinaryTreeNode[396953]> to the queue
-INFO:Visiting <BinaryTreeNode[396979]>
-DEBUG:<BinaryTreeNode[396979]> left is not empty. Adding <BinaryTreeNode[396967]> to the queue
-DEBUG:<BinaryTreeNode[396979]> right is not empty. Adding <BinaryTreeNode[396978]> to the queue
-INFO:Visiting <BinaryTreeNode[396939]>
-DEBUG:<BinaryTreeNode[396939]> left is not empty. Adding <BinaryTreeNode[396932]> to the queue
-DEBUG:<BinaryTreeNode[396939]> right is not empty. Adding <BinaryTreeNode[396938]> to the queue
-INFO:Visiting <BinaryTreeNode[396953]>
-DEBUG:<BinaryTreeNode[396953]> left is not empty. Adding <BinaryTreeNode[396945]> to the queue
-DEBUG:<BinaryTreeNode[396953]> right is not empty. Adding <BinaryTreeNode[396952]> to the queue
-INFO:Visiting <BinaryTreeNode[396967]>
-DEBUG:<BinaryTreeNode[396967]> left is not empty. Adding <BinaryTreeNode[396960]> to the queue
-DEBUG:<BinaryTreeNode[396967]> right is not empty. Adding <BinaryTreeNode[396966]> to the queue
-INFO:Visiting <BinaryTreeNode[396978]>
-DEBUG:<BinaryTreeNode[396978]> left is not empty. Adding <BinaryTreeNode[396974]> to the queue
-DEBUG:<BinaryTreeNode[396978]> right is not empty. Adding <BinaryTreeNode[396977]> to the queue
-INFO:Visiting <BinaryTreeNode[396932]>
-DEBUG:<BinaryTreeNode[396932]> left is not empty. Adding <BinaryTreeNode[396928]> to the queue
-DEBUG:<BinaryTreeNode[396932]> right is not empty. Adding <BinaryTreeNode[396931]> to the queue
-INFO:Visiting <BinaryTreeNode[396938]>
-DEBUG:<BinaryTreeNode[396938]> left is not empty. Adding <BinaryTreeNode[396934]> to the queue
-DEBUG:<BinaryTreeNode[396938]> right is not empty. Adding <BinaryTreeNode[396937]> to the queue
-INFO:Visiting <BinaryTreeNode[396945]>
-DEBUG:<BinaryTreeNode[396945]> left is not empty. Adding <BinaryTreeNode[396941]> to the queue
-DEBUG:<BinaryTreeNode[396945]> right is not empty. Adding <BinaryTreeNode[396944]> to the queue
-INFO:Visiting <BinaryTreeNode[396952]>
-DEBUG:<BinaryTreeNode[396952]> left is not empty. Adding <BinaryTreeNode[396948]> to the queue
-DEBUG:<BinaryTreeNode[396952]> right is not empty. Adding <BinaryTreeNode[396951]> to the queue
-INFO:Visiting <BinaryTreeNode[396960]>
-DEBUG:<BinaryTreeNode[396960]> left is not empty. Adding <BinaryTreeNode[396957]> to the queue
-DEBUG:<BinaryTreeNode[396960]> right is not empty. Adding <BinaryTreeNode[396959]> to the queue
-INFO:Visiting <BinaryTreeNode[396966]>
-DEBUG:<BinaryTreeNode[396966]> left is not empty. Adding <BinaryTreeNode[396963]> to the queue
-DEBUG:<BinaryTreeNode[396966]> right is not empty. Adding <BinaryTreeNode[396965]> to the queue
-INFO:Visiting <BinaryTreeNode[396974]>
-DEBUG:<BinaryTreeNode[396974]> left is not empty. Adding <BinaryTreeNode[396970]> to the queue
-DEBUG:<BinaryTreeNode[396974]> right is not empty. Adding <BinaryTreeNode[396973]> to the queue
-INFO:Visiting <BinaryTreeNode[396977]>
-DEBUG:<BinaryTreeNode[396977]> right is not empty. Adding <BinaryTreeNode[396976]> to the queue
-INFO:Visiting <BinaryTreeNode[396928]>
-DEBUG:<BinaryTreeNode[396928]> left is not empty. Adding <BinaryTreeNode[396926]> to the queue
-DEBUG:<BinaryTreeNode[396928]> right is not empty. Adding <BinaryTreeNode[396927]> to the queue
-INFO:Visiting <BinaryTreeNode[396931]>
-DEBUG:<BinaryTreeNode[396931]> left is not empty. Adding <BinaryTreeNode[396929]> to the queue
-DEBUG:<BinaryTreeNode[396931]> right is not empty. Adding <BinaryTreeNode[396930]> to the queue
-INFO:Visiting <BinaryTreeNode[396934]>
-DEBUG:<BinaryTreeNode[396934]> right is not empty. Adding <BinaryTreeNode[396933]> to the queue
-INFO:Visiting <BinaryTreeNode[396937]>
-DEBUG:<BinaryTreeNode[396937]> left is not empty. Adding <BinaryTreeNode[396935]> to the queue
-DEBUG:<BinaryTreeNode[396937]> right is not empty. Adding <BinaryTreeNode[396936]> to the queue
-INFO:Visiting <BinaryTreeNode[396941]>
-DEBUG:<BinaryTreeNode[396941]> right is not empty. Adding <BinaryTreeNode[396940]> to the queue
-INFO:Visiting <BinaryTreeNode[396944]>
-DEBUG:<BinaryTreeNode[396944]> left is not empty. Adding <BinaryTreeNode[396942]> to the queue
-DEBUG:<BinaryTreeNode[396944]> right is not empty. Adding <BinaryTreeNode[396943]> to the queue
-INFO:Visiting <BinaryTreeNode[396948]>
-DEBUG:<BinaryTreeNode[396948]> left is not empty. Adding <BinaryTreeNode[396946]> to the queue
-DEBUG:<BinaryTreeNode[396948]> right is not empty. Adding <BinaryTreeNode[396947]> to the queue
-INFO:Visiting <BinaryTreeNode[396951]>
-DEBUG:<BinaryTreeNode[396951]> left is not empty. Adding <BinaryTreeNode[396949]> to the queue
-DEBUG:<BinaryTreeNode[396951]> right is not empty. Adding <BinaryTreeNode[396950]> to the queue
-INFO:Visiting <BinaryTreeNode[396957]>
-DEBUG:<BinaryTreeNode[396957]> left is not empty. Adding <BinaryTreeNode[396955]> to the queue
-DEBUG:<BinaryTreeNode[396957]> right is not empty. Adding <BinaryTreeNode[396956]> to the queue
-INFO:Visiting <BinaryTreeNode[396959]>
-DEBUG:<BinaryTreeNode[396959]> right is not empty. Adding <BinaryTreeNode[396958]> to the queue
-INFO:Visiting <BinaryTreeNode[396963]>
-DEBUG:<BinaryTreeNode[396963]> left is not empty. Adding <BinaryTreeNode[396961]> to the queue
-DEBUG:<BinaryTreeNode[396963]> right is not empty. Adding <BinaryTreeNode[396962]> to the queue
-INFO:Visiting <BinaryTreeNode[396965]>
-DEBUG:<BinaryTreeNode[396965]> right is not empty. Adding <BinaryTreeNode[396964]> to the queue
-INFO:Visiting <BinaryTreeNode[396970]>
-DEBUG:<BinaryTreeNode[396970]> left is not empty. Adding <BinaryTreeNode[396968]> to the queue
-DEBUG:<BinaryTreeNode[396970]> right is not empty. Adding <BinaryTreeNode[396969]> to the queue
-INFO:Visiting <BinaryTreeNode[396973]>
-DEBUG:<BinaryTreeNode[396973]> left is not empty. Adding <BinaryTreeNode[396971]> to the queue
-DEBUG:<BinaryTreeNode[396973]> right is not empty. Adding <BinaryTreeNode[396972]> to the queue
-INFO:Visiting <BinaryTreeNode[396976]>
-DEBUG:<BinaryTreeNode[396976]> right is not empty. Adding <BinaryTreeNode[396975]> to the queue
-INFO:Visiting <BinaryTreeNode[396926]>
-INFO:Visiting <BinaryTreeNode[396927]>
-INFO:Visiting <BinaryTreeNode[396929]>
-INFO:Visiting <BinaryTreeNode[396930]>
-INFO:Visiting <BinaryTreeNode[396933]>
-INFO:Visiting <BinaryTreeNode[396935]>
-INFO:Visiting <BinaryTreeNode[396936]>
-INFO:Visiting <BinaryTreeNode[396940]>
-INFO:Visiting <BinaryTreeNode[396942]>
-INFO:Visiting <BinaryTreeNode[396943]>
-INFO:Visiting <BinaryTreeNode[396946]>
-INFO:Visiting <BinaryTreeNode[396947]>
-INFO:Visiting <BinaryTreeNode[396949]>
-INFO:Visiting <BinaryTreeNode[396950]>
-INFO:Visiting <BinaryTreeNode[396955]>
-INFO:Visiting <BinaryTreeNode[396956]>
-INFO:Visiting <BinaryTreeNode[396958]>
-INFO:Visiting <BinaryTreeNode[396961]>
-INFO:Visiting <BinaryTreeNode[396962]>
-INFO:Visiting <BinaryTreeNode[396964]>
-INFO:Visiting <BinaryTreeNode[396968]>
-INFO:Visiting <BinaryTreeNode[396969]>
-INFO:Visiting <BinaryTreeNode[396971]>
-INFO:Visiting <BinaryTreeNode[396972]>
-INFO:Visiting <BinaryTreeNode[396975]>
+INFO:Visiting <BinaryTreeNode[898472]>
+DEBUG:<BinaryTreeNode[898472]> left is not empty. Adding <BinaryTreeNode[898408]> to the queue
+DEBUG:<BinaryTreeNode[898472]> right is not empty. Adding <BinaryTreeNode[898471]> to the queue
+INFO:Visiting <BinaryTreeNode[898408]>
+DEBUG:<BinaryTreeNode[898408]> left is not empty. Adding <BinaryTreeNode[898376]> to the queue
+DEBUG:<BinaryTreeNode[898408]> right is not empty. Adding <BinaryTreeNode[898407]> to the queue
+INFO:Visiting <BinaryTreeNode[898471]>
+DEBUG:<BinaryTreeNode[898471]> left is not empty. Adding <BinaryTreeNode[898439]> to the queue
+DEBUG:<BinaryTreeNode[898471]> right is not empty. Adding <BinaryTreeNode[898470]> to the queue
+INFO:Visiting <BinaryTreeNode[898376]>
+DEBUG:<BinaryTreeNode[898376]> left is not empty. Adding <BinaryTreeNode[898360]> to the queue
+DEBUG:<BinaryTreeNode[898376]> right is not empty. Adding <BinaryTreeNode[898375]> to the queue
+INFO:Visiting <BinaryTreeNode[898407]>
+DEBUG:<BinaryTreeNode[898407]> left is not empty. Adding <BinaryTreeNode[898391]> to the queue
+DEBUG:<BinaryTreeNode[898407]> right is not empty. Adding <BinaryTreeNode[898406]> to the queue
+INFO:Visiting <BinaryTreeNode[898439]>
+DEBUG:<BinaryTreeNode[898439]> left is not empty. Adding <BinaryTreeNode[898423]> to the queue
+DEBUG:<BinaryTreeNode[898439]> right is not empty. Adding <BinaryTreeNode[898438]> to the queue
+INFO:Visiting <BinaryTreeNode[898470]>
+DEBUG:<BinaryTreeNode[898470]> left is not empty. Adding <BinaryTreeNode[898454]> to the queue
+DEBUG:<BinaryTreeNode[898470]> right is not empty. Adding <BinaryTreeNode[898469]> to the queue
+INFO:Visiting <BinaryTreeNode[898360]>
+DEBUG:<BinaryTreeNode[898360]> left is not empty. Adding <BinaryTreeNode[898352]> to the queue
+DEBUG:<BinaryTreeNode[898360]> right is not empty. Adding <BinaryTreeNode[898359]> to the queue
+INFO:Visiting <BinaryTreeNode[898375]>
+DEBUG:<BinaryTreeNode[898375]> left is not empty. Adding <BinaryTreeNode[898367]> to the queue
+DEBUG:<BinaryTreeNode[898375]> right is not empty. Adding <BinaryTreeNode[898374]> to the queue
+INFO:Visiting <BinaryTreeNode[898391]>
+DEBUG:<BinaryTreeNode[898391]> left is not empty. Adding <BinaryTreeNode[898383]> to the queue
+DEBUG:<BinaryTreeNode[898391]> right is not empty. Adding <BinaryTreeNode[898390]> to the queue
+INFO:Visiting <BinaryTreeNode[898406]>
+DEBUG:<BinaryTreeNode[898406]> left is not empty. Adding <BinaryTreeNode[898398]> to the queue
+DEBUG:<BinaryTreeNode[898406]> right is not empty. Adding <BinaryTreeNode[898405]> to the queue
+INFO:Visiting <BinaryTreeNode[898423]>
+DEBUG:<BinaryTreeNode[898423]> left is not empty. Adding <BinaryTreeNode[898415]> to the queue
+DEBUG:<BinaryTreeNode[898423]> right is not empty. Adding <BinaryTreeNode[898422]> to the queue
+INFO:Visiting <BinaryTreeNode[898438]>
+DEBUG:<BinaryTreeNode[898438]> left is not empty. Adding <BinaryTreeNode[898430]> to the queue
+DEBUG:<BinaryTreeNode[898438]> right is not empty. Adding <BinaryTreeNode[898437]> to the queue
+INFO:Visiting <BinaryTreeNode[898454]>
+DEBUG:<BinaryTreeNode[898454]> left is not empty. Adding <BinaryTreeNode[898446]> to the queue
+DEBUG:<BinaryTreeNode[898454]> right is not empty. Adding <BinaryTreeNode[898453]> to the queue
+INFO:Visiting <BinaryTreeNode[898469]>
+DEBUG:<BinaryTreeNode[898469]> left is not empty. Adding <BinaryTreeNode[898461]> to the queue
+DEBUG:<BinaryTreeNode[898469]> right is not empty. Adding <BinaryTreeNode[898468]> to the queue
+INFO:Visiting <BinaryTreeNode[898352]>
+DEBUG:<BinaryTreeNode[898352]> left is not empty. Adding <BinaryTreeNode[898348]> to the queue
+DEBUG:<BinaryTreeNode[898352]> right is not empty. Adding <BinaryTreeNode[898351]> to the queue
+INFO:Visiting <BinaryTreeNode[898359]>
+DEBUG:<BinaryTreeNode[898359]> left is not empty. Adding <BinaryTreeNode[898355]> to the queue
+DEBUG:<BinaryTreeNode[898359]> right is not empty. Adding <BinaryTreeNode[898358]> to the queue
+INFO:Visiting <BinaryTreeNode[898367]>
+DEBUG:<BinaryTreeNode[898367]> left is not empty. Adding <BinaryTreeNode[898363]> to the queue
+DEBUG:<BinaryTreeNode[898367]> right is not empty. Adding <BinaryTreeNode[898366]> to the queue
+INFO:Visiting <BinaryTreeNode[898374]>
+DEBUG:<BinaryTreeNode[898374]> left is not empty. Adding <BinaryTreeNode[898370]> to the queue
+DEBUG:<BinaryTreeNode[898374]> right is not empty. Adding <BinaryTreeNode[898373]> to the queue
+INFO:Visiting <BinaryTreeNode[898383]>
+DEBUG:<BinaryTreeNode[898383]> left is not empty. Adding <BinaryTreeNode[898379]> to the queue
+DEBUG:<BinaryTreeNode[898383]> right is not empty. Adding <BinaryTreeNode[898382]> to the queue
+INFO:Visiting <BinaryTreeNode[898390]>
+DEBUG:<BinaryTreeNode[898390]> left is not empty. Adding <BinaryTreeNode[898386]> to the queue
+DEBUG:<BinaryTreeNode[898390]> right is not empty. Adding <BinaryTreeNode[898389]> to the queue
+INFO:Visiting <BinaryTreeNode[898398]>
+DEBUG:<BinaryTreeNode[898398]> left is not empty. Adding <BinaryTreeNode[898394]> to the queue
+DEBUG:<BinaryTreeNode[898398]> right is not empty. Adding <BinaryTreeNode[898397]> to the queue
+INFO:Visiting <BinaryTreeNode[898405]>
+DEBUG:<BinaryTreeNode[898405]> left is not empty. Adding <BinaryTreeNode[898401]> to the queue
+DEBUG:<BinaryTreeNode[898405]> right is not empty. Adding <BinaryTreeNode[898404]> to the queue
+INFO:Visiting <BinaryTreeNode[898415]>
+DEBUG:<BinaryTreeNode[898415]> left is not empty. Adding <BinaryTreeNode[898411]> to the queue
+DEBUG:<BinaryTreeNode[898415]> right is not empty. Adding <BinaryTreeNode[898414]> to the queue
+INFO:Visiting <BinaryTreeNode[898422]>
+DEBUG:<BinaryTreeNode[898422]> left is not empty. Adding <BinaryTreeNode[898418]> to the queue
+DEBUG:<BinaryTreeNode[898422]> right is not empty. Adding <BinaryTreeNode[898421]> to the queue
+INFO:Visiting <BinaryTreeNode[898430]>
+DEBUG:<BinaryTreeNode[898430]> left is not empty. Adding <BinaryTreeNode[898426]> to the queue
+DEBUG:<BinaryTreeNode[898430]> right is not empty. Adding <BinaryTreeNode[898429]> to the queue
+INFO:Visiting <BinaryTreeNode[898437]>
+DEBUG:<BinaryTreeNode[898437]> left is not empty. Adding <BinaryTreeNode[898433]> to the queue
+DEBUG:<BinaryTreeNode[898437]> right is not empty. Adding <BinaryTreeNode[898436]> to the queue
+INFO:Visiting <BinaryTreeNode[898446]>
+DEBUG:<BinaryTreeNode[898446]> left is not empty. Adding <BinaryTreeNode[898442]> to the queue
+DEBUG:<BinaryTreeNode[898446]> right is not empty. Adding <BinaryTreeNode[898445]> to the queue
+INFO:Visiting <BinaryTreeNode[898453]>
+DEBUG:<BinaryTreeNode[898453]> left is not empty. Adding <BinaryTreeNode[898449]> to the queue
+DEBUG:<BinaryTreeNode[898453]> right is not empty. Adding <BinaryTreeNode[898452]> to the queue
+INFO:Visiting <BinaryTreeNode[898461]>
+DEBUG:<BinaryTreeNode[898461]> left is not empty. Adding <BinaryTreeNode[898457]> to the queue
+DEBUG:<BinaryTreeNode[898461]> right is not empty. Adding <BinaryTreeNode[898460]> to the queue
+INFO:Visiting <BinaryTreeNode[898468]>
+DEBUG:<BinaryTreeNode[898468]> left is not empty. Adding <BinaryTreeNode[898464]> to the queue
+DEBUG:<BinaryTreeNode[898468]> right is not empty. Adding <BinaryTreeNode[898467]> to the queue
+INFO:Visiting <BinaryTreeNode[898348]>
+DEBUG:<BinaryTreeNode[898348]> left is not empty. Adding <BinaryTreeNode[898346]> to the queue
+DEBUG:<BinaryTreeNode[898348]> right is not empty. Adding <BinaryTreeNode[898347]> to the queue
+INFO:Visiting <BinaryTreeNode[898351]>
+DEBUG:<BinaryTreeNode[898351]> left is not empty. Adding <BinaryTreeNode[898349]> to the queue
+DEBUG:<BinaryTreeNode[898351]> right is not empty. Adding <BinaryTreeNode[898350]> to the queue
+INFO:Visiting <BinaryTreeNode[898355]>
+DEBUG:<BinaryTreeNode[898355]> left is not empty. Adding <BinaryTreeNode[898353]> to the queue
+DEBUG:<BinaryTreeNode[898355]> right is not empty. Adding <BinaryTreeNode[898354]> to the queue
+INFO:Visiting <BinaryTreeNode[898358]>
+DEBUG:<BinaryTreeNode[898358]> left is not empty. Adding <BinaryTreeNode[898356]> to the queue
+DEBUG:<BinaryTreeNode[898358]> right is not empty. Adding <BinaryTreeNode[898357]> to the queue
+INFO:Visiting <BinaryTreeNode[898363]>
+DEBUG:<BinaryTreeNode[898363]> left is not empty. Adding <BinaryTreeNode[898361]> to the queue
+DEBUG:<BinaryTreeNode[898363]> right is not empty. Adding <BinaryTreeNode[898362]> to the queue
+INFO:Visiting <BinaryTreeNode[898366]>
+DEBUG:<BinaryTreeNode[898366]> left is not empty. Adding <BinaryTreeNode[898364]> to the queue
+DEBUG:<BinaryTreeNode[898366]> right is not empty. Adding <BinaryTreeNode[898365]> to the queue
+INFO:Visiting <BinaryTreeNode[898370]>
+DEBUG:<BinaryTreeNode[898370]> left is not empty. Adding <BinaryTreeNode[898368]> to the queue
+DEBUG:<BinaryTreeNode[898370]> right is not empty. Adding <BinaryTreeNode[898369]> to the queue
+INFO:Visiting <BinaryTreeNode[898373]>
+DEBUG:<BinaryTreeNode[898373]> left is not empty. Adding <BinaryTreeNode[898371]> to the queue
+DEBUG:<BinaryTreeNode[898373]> right is not empty. Adding <BinaryTreeNode[898372]> to the queue
+INFO:Visiting <BinaryTreeNode[898379]>
+DEBUG:<BinaryTreeNode[898379]> left is not empty. Adding <BinaryTreeNode[898377]> to the queue
+DEBUG:<BinaryTreeNode[898379]> right is not empty. Adding <BinaryTreeNode[898378]> to the queue
+INFO:Visiting <BinaryTreeNode[898382]>
+DEBUG:<BinaryTreeNode[898382]> left is not empty. Adding <BinaryTreeNode[898380]> to the queue
+DEBUG:<BinaryTreeNode[898382]> right is not empty. Adding <BinaryTreeNode[898381]> to the queue
+INFO:Visiting <BinaryTreeNode[898386]>
+DEBUG:<BinaryTreeNode[898386]> left is not empty. Adding <BinaryTreeNode[898384]> to the queue
+DEBUG:<BinaryTreeNode[898386]> right is not empty. Adding <BinaryTreeNode[898385]> to the queue
+INFO:Visiting <BinaryTreeNode[898389]>
+DEBUG:<BinaryTreeNode[898389]> left is not empty. Adding <BinaryTreeNode[898387]> to the queue
+DEBUG:<BinaryTreeNode[898389]> right is not empty. Adding <BinaryTreeNode[898388]> to the queue
+INFO:Visiting <BinaryTreeNode[898394]>
+DEBUG:<BinaryTreeNode[898394]> left is not empty. Adding <BinaryTreeNode[898392]> to the queue
+DEBUG:<BinaryTreeNode[898394]> right is not empty. Adding <BinaryTreeNode[898393]> to the queue
+INFO:Visiting <BinaryTreeNode[898397]>
+DEBUG:<BinaryTreeNode[898397]> left is not empty. Adding <BinaryTreeNode[898395]> to the queue
+DEBUG:<BinaryTreeNode[898397]> right is not empty. Adding <BinaryTreeNode[898396]> to the queue
+INFO:Visiting <BinaryTreeNode[898401]>
+DEBUG:<BinaryTreeNode[898401]> left is not empty. Adding <BinaryTreeNode[898399]> to the queue
+DEBUG:<BinaryTreeNode[898401]> right is not empty. Adding <BinaryTreeNode[898400]> to the queue
+INFO:Visiting <BinaryTreeNode[898404]>
+DEBUG:<BinaryTreeNode[898404]> left is not empty. Adding <BinaryTreeNode[898402]> to the queue
+DEBUG:<BinaryTreeNode[898404]> right is not empty. Adding <BinaryTreeNode[898403]> to the queue
+INFO:Visiting <BinaryTreeNode[898411]>
+DEBUG:<BinaryTreeNode[898411]> left is not empty. Adding <BinaryTreeNode[898409]> to the queue
+DEBUG:<BinaryTreeNode[898411]> right is not empty. Adding <BinaryTreeNode[898410]> to the queue
+INFO:Visiting <BinaryTreeNode[898414]>
+DEBUG:<BinaryTreeNode[898414]> left is not empty. Adding <BinaryTreeNode[898412]> to the queue
+DEBUG:<BinaryTreeNode[898414]> right is not empty. Adding <BinaryTreeNode[898413]> to the queue
+INFO:Visiting <BinaryTreeNode[898418]>
+DEBUG:<BinaryTreeNode[898418]> left is not empty. Adding <BinaryTreeNode[898416]> to the queue
+DEBUG:<BinaryTreeNode[898418]> right is not empty. Adding <BinaryTreeNode[898417]> to the queue
+INFO:Visiting <BinaryTreeNode[898421]>
+DEBUG:<BinaryTreeNode[898421]> left is not empty. Adding <BinaryTreeNode[898419]> to the queue
+DEBUG:<BinaryTreeNode[898421]> right is not empty. Adding <BinaryTreeNode[898420]> to the queue
+INFO:Visiting <BinaryTreeNode[898426]>
+DEBUG:<BinaryTreeNode[898426]> left is not empty. Adding <BinaryTreeNode[898424]> to the queue
+DEBUG:<BinaryTreeNode[898426]> right is not empty. Adding <BinaryTreeNode[898425]> to the queue
+INFO:Visiting <BinaryTreeNode[898429]>
+DEBUG:<BinaryTreeNode[898429]> left is not empty. Adding <BinaryTreeNode[898427]> to the queue
+DEBUG:<BinaryTreeNode[898429]> right is not empty. Adding <BinaryTreeNode[898428]> to the queue
+INFO:Visiting <BinaryTreeNode[898433]>
+DEBUG:<BinaryTreeNode[898433]> left is not empty. Adding <BinaryTreeNode[898431]> to the queue
+DEBUG:<BinaryTreeNode[898433]> right is not empty. Adding <BinaryTreeNode[898432]> to the queue
+INFO:Visiting <BinaryTreeNode[898436]>
+DEBUG:<BinaryTreeNode[898436]> left is not empty. Adding <BinaryTreeNode[898434]> to the queue
+DEBUG:<BinaryTreeNode[898436]> right is not empty. Adding <BinaryTreeNode[898435]> to the queue
+INFO:Visiting <BinaryTreeNode[898442]>
+DEBUG:<BinaryTreeNode[898442]> left is not empty. Adding <BinaryTreeNode[898440]> to the queue
+DEBUG:<BinaryTreeNode[898442]> right is not empty. Adding <BinaryTreeNode[898441]> to the queue
+INFO:Visiting <BinaryTreeNode[898445]>
+DEBUG:<BinaryTreeNode[898445]> left is not empty. Adding <BinaryTreeNode[898443]> to the queue
+DEBUG:<BinaryTreeNode[898445]> right is not empty. Adding <BinaryTreeNode[898444]> to the queue
+INFO:Visiting <BinaryTreeNode[898449]>
+DEBUG:<BinaryTreeNode[898449]> left is not empty. Adding <BinaryTreeNode[898447]> to the queue
+DEBUG:<BinaryTreeNode[898449]> right is not empty. Adding <BinaryTreeNode[898448]> to the queue
+INFO:Visiting <BinaryTreeNode[898452]>
+DEBUG:<BinaryTreeNode[898452]> left is not empty. Adding <BinaryTreeNode[898450]> to the queue
+DEBUG:<BinaryTreeNode[898452]> right is not empty. Adding <BinaryTreeNode[898451]> to the queue
+INFO:Visiting <BinaryTreeNode[898457]>
+DEBUG:<BinaryTreeNode[898457]> left is not empty. Adding <BinaryTreeNode[898455]> to the queue
+DEBUG:<BinaryTreeNode[898457]> right is not empty. Adding <BinaryTreeNode[898456]> to the queue
+INFO:Visiting <BinaryTreeNode[898460]>
+DEBUG:<BinaryTreeNode[898460]> left is not empty. Adding <BinaryTreeNode[898458]> to the queue
+DEBUG:<BinaryTreeNode[898460]> right is not empty. Adding <BinaryTreeNode[898459]> to the queue
+INFO:Visiting <BinaryTreeNode[898464]>
+DEBUG:<BinaryTreeNode[898464]> left is not empty. Adding <BinaryTreeNode[898462]> to the queue
+DEBUG:<BinaryTreeNode[898464]> right is not empty. Adding <BinaryTreeNode[898463]> to the queue
+INFO:Visiting <BinaryTreeNode[898467]>
+DEBUG:<BinaryTreeNode[898467]> left is not empty. Adding <BinaryTreeNode[898465]> to the queue
+DEBUG:<BinaryTreeNode[898467]> right is not empty. Adding <BinaryTreeNode[898466]> to the queue
+INFO:Visiting <BinaryTreeNode[898346]>
+INFO:Visiting <BinaryTreeNode[898347]>
+INFO:Visiting <BinaryTreeNode[898349]>
+INFO:Visiting <BinaryTreeNode[898350]>
+INFO:Visiting <BinaryTreeNode[898353]>
+INFO:Visiting <BinaryTreeNode[898354]>
+INFO:Visiting <BinaryTreeNode[898356]>
+INFO:Visiting <BinaryTreeNode[898357]>
+INFO:Visiting <BinaryTreeNode[898361]>
+INFO:Visiting <BinaryTreeNode[898362]>
+INFO:Visiting <BinaryTreeNode[898364]>
+INFO:Visiting <BinaryTreeNode[898365]>
+INFO:Visiting <BinaryTreeNode[898368]>
+INFO:Visiting <BinaryTreeNode[898369]>
+INFO:Visiting <BinaryTreeNode[898371]>
+INFO:Visiting <BinaryTreeNode[898372]>
+INFO:Visiting <BinaryTreeNode[898377]>
+INFO:Visiting <BinaryTreeNode[898378]>
+INFO:Visiting <BinaryTreeNode[898380]>
+INFO:Visiting <BinaryTreeNode[898381]>
+INFO:Visiting <BinaryTreeNode[898384]>
+INFO:Visiting <BinaryTreeNode[898385]>
+INFO:Visiting <BinaryTreeNode[898387]>
+INFO:Visiting <BinaryTreeNode[898388]>
+INFO:Visiting <BinaryTreeNode[898392]>
+INFO:Visiting <BinaryTreeNode[898393]>
+INFO:Visiting <BinaryTreeNode[898395]>
+INFO:Visiting <BinaryTreeNode[898396]>
+INFO:Visiting <BinaryTreeNode[898399]>
+INFO:Visiting <BinaryTreeNode[898400]>
+INFO:Visiting <BinaryTreeNode[898402]>
+INFO:Visiting <BinaryTreeNode[898403]>
+INFO:Visiting <BinaryTreeNode[898409]>
+INFO:Visiting <BinaryTreeNode[898410]>
+INFO:Visiting <BinaryTreeNode[898412]>
+INFO:Visiting <BinaryTreeNode[898413]>
+INFO:Visiting <BinaryTreeNode[898416]>
+INFO:Visiting <BinaryTreeNode[898417]>
+INFO:Visiting <BinaryTreeNode[898419]>
+INFO:Visiting <BinaryTreeNode[898420]>
+INFO:Visiting <BinaryTreeNode[898424]>
+INFO:Visiting <BinaryTreeNode[898425]>
+INFO:Visiting <BinaryTreeNode[898427]>
+INFO:Visiting <BinaryTreeNode[898428]>
+INFO:Visiting <BinaryTreeNode[898431]>
+INFO:Visiting <BinaryTreeNode[898432]>
+INFO:Visiting <BinaryTreeNode[898434]>
+INFO:Visiting <BinaryTreeNode[898435]>
+INFO:Visiting <BinaryTreeNode[898440]>
+INFO:Visiting <BinaryTreeNode[898441]>
+INFO:Visiting <BinaryTreeNode[898443]>
+INFO:Visiting <BinaryTreeNode[898444]>
+INFO:Visiting <BinaryTreeNode[898447]>
+INFO:Visiting <BinaryTreeNode[898448]>
+INFO:Visiting <BinaryTreeNode[898450]>
+INFO:Visiting <BinaryTreeNode[898451]>
+INFO:Visiting <BinaryTreeNode[898455]>
+INFO:Visiting <BinaryTreeNode[898456]>
+INFO:Visiting <BinaryTreeNode[898458]>
+INFO:Visiting <BinaryTreeNode[898459]>
+INFO:Visiting <BinaryTreeNode[898462]>
+INFO:Visiting <BinaryTreeNode[898463]>
+INFO:Visiting <BinaryTreeNode[898465]>
+INFO:Visiting <BinaryTreeNode[898466]>

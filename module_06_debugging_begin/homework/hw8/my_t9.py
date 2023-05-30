@@ -18,10 +18,29 @@
 и возвращает список слов английского языка, которые можно получить из этой последовательности цифр.
 """
 from typing import List
+import re
 
 
 def my_t9(input_numbers: str) -> List[str]:
-    ...
+    with open('/usr/share/dict/words', 'r') as f:
+        dictionary = set(word.strip().lower() for word in f)
+
+    digit_mapping = {
+        '2': '[abc]',
+        '3': '[def]',
+        '4': '[ghi]',
+        '5': '[jkl]',
+        '6': '[mno]',
+        '7': '[pqrs]',
+        '8': '[tuv]',
+        '9': '[wxyz]'
+    }
+
+    pattern = ''.join(digit_mapping.get(digit, '') for digit in input_numbers)
+    regex = re.compile(pattern)
+
+    results = [word for word in dictionary if regex.match(word)]
+    return results
 
 
 if __name__ == '__main__':
